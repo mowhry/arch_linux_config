@@ -1,2 +1,3 @@
-# arch_linux_config
-Here my personal configuration that I use for my arch Linux and the installation tutorial.
+# Arch_Linux Personnal Configuration
+
+Here's my personal configuration for my Linux arch and the installation tutorial.
