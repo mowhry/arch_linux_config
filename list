@@ -1,0 +1,20 @@
+packet a installe :
+
+- git
+- zsh
+- Oh-my-zsh
+- g++
+- makefile
+- gcc
+- neovim
+
+
+	//pour la suite des packet a reflechir !!\\
+
+Environment :
+
+Terminal : kitty
+WM/DE : Hyprland
+Bar : waybar
+
+ensuite inchallah faire config neovim
